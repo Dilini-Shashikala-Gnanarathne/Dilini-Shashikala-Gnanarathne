@@ -22,5 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilini-shashikala-gnanarathne&" alt="dilini-shashikala-gnanarathne" /></p>
 
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{JIshanRandika}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Dilini-Shashikala-Gnanarathne}/count.svg)
 
