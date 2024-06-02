@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/](https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/)
+  
+-  🔭 I’m currently working on [Stock Management System for a Tea Factory.](https://github.com/sudeepa99/Stock-Management-System)
+
+- 🌱 I’m currently learning **Reactjs and MongoDB**
 
 - 📫 How to reach me **shashikaladilini11@gmail.com**
 
