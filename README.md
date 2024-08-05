@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilini Gnanarathne</h1>
+<h1 align="center">Hi 👋, I'm Dilini Shashikala Gnanarathne</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/](https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/)
