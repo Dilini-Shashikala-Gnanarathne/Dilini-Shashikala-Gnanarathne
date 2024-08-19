@@ -7,7 +7,7 @@
 
 -  🔭 I’m currently working on [UrbanMart Web Application]((https://github.com/Dilini-Shashikala-Gnanarathne/UrbanMart))
  
-- 🌱 I’m currently learning **Reactjs and MongoDB**
+- 🌱 I’m currently learning **Springboot Angular MicroServices**
 
 - 📫 How to reach me **shashikaladilini11@gmail.com**
 
