@@ -3,9 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/](https://dilini-shashikala-gnanarathne.github.io/My_Portfolio/)
   
--  🔭 I’m currently working on [Stock Management System for a Tea Factory.](https://github.com/sudeepa99/Stock-Management-System)
-
--  🔭 I’m currently working on [Micro Web Application]((https://github.com/Dilini-Shashikala-Gnanarathne/MicroProject))
+-  🔭 I’m currently working on trueyieldfield
  
 - 🌱 I’m currently learning **Springboot Angular MicroServices**
 
